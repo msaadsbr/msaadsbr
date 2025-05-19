@@ -20,7 +20,7 @@
 - ⚔️ Use Programming skills and 🕵️‍♂️ Ethical Hacking knowledge to Secure Web Applications
 - 🎓 Bachelor's in Data Science from Punjab University College of Information Technology (PUCIT)
 - 🔧 Making Automation Tools For My Ease and Sharing With Others 
-- 💻 Solved Over 400 Problems on Codeforces 
+- 💻 Solved Over 700 Problems on Codeforces 
 - ⌨️ Average Typing speed 60 WPM 
 - 📈 Solved 150+ DSA problems on LeetCode 
 - 🏏 Playing Cricket
